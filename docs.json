@@ -76,7 +76,11 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://discord.gg/y3kVrcwC7K"
+      },
+      {
+        "href": "https://dashboard.rovelo.app",
+        "label": "Dashboard"
       }
     ],
     "primary": {
