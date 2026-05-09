@@ -77,16 +77,12 @@
       {
         "label": "Support",
         "href": "https://discord.gg/y3kVrcwC7K"
-      },
-      {
-        "href": "https://dashboard.rovelo.app",
-        "label": "Dashboard"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://dashboard.rovelo.app"
     }
   },
   "contextual": {
