@@ -17,7 +17,7 @@
             "group": "Overview",
             "pages": [
               "index",
-              "setting-up"
+              "onboarding"
             ]
           }
         ]
@@ -119,5 +119,8 @@
   },
   "seo": {
     "indexing": "all"
+  },
+  "search": {
+    "prompt": "h"
   }
 }
