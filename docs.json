@@ -9,37 +9,160 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "languages": [
       {
-        "tab": "Documents",
-        "groups": [
+        "language": "en",
+        "default": true,
+        "tabs": [
           {
-            "group": "Overview",
-            "pages": [
-              "index",
-              "onboarding",
-              "platform-guide",
-              "features"
+            "tab": "Documents",
+            "groups": [
+              {
+                "group": "Overview",
+                "pages": [
+                  "index",
+                  "onboarding",
+                  "platform-guide",
+                  "features"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "API reference",
+            "groups": [
+              {
+                "group": "API documentation",
+                "pages": [
+                  "api-reference/introduction"
+                ]
+              },
+              {
+                "group": "Endpoint examples",
+                "pages": [
+                  "api-reference/endpoint/get",
+                  "api-reference/endpoint/create",
+                  "api-reference/endpoint/delete",
+                  "api-reference/endpoint/webhook"
+                ]
+              }
             ]
           }
         ]
       },
       {
-        "tab": "API reference",
-        "groups": [
+        "language": "es",
+        "tabs": [
           {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
+            "tab": "Documentos",
+            "groups": [
+              {
+                "group": "Descripción general",
+                "pages": [
+                  "es/index",
+                  "es/onboarding",
+                  "es/platform-guide",
+                  "es/features"
+                ]
+              }
             ]
           },
           {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+            "tab": "Referencia de la API",
+            "groups": [
+              {
+                "group": "Documentación de la API",
+                "pages": [
+                  "es/api-reference/introduction"
+                ]
+              },
+              {
+                "group": "Ejemplos de endpoints",
+                "pages": [
+                  "es/api-reference/endpoint/get",
+                  "es/api-reference/endpoint/create",
+                  "es/api-reference/endpoint/delete",
+                  "es/api-reference/endpoint/webhook"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "fr",
+        "tabs": [
+          {
+            "tab": "Documents",
+            "groups": [
+              {
+                "group": "Vue d'ensemble",
+                "pages": [
+                  "fr/index",
+                  "fr/onboarding",
+                  "fr/platform-guide",
+                  "fr/features"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Référence de l'API",
+            "groups": [
+              {
+                "group": "Documentation de l'API",
+                "pages": [
+                  "fr/api-reference/introduction"
+                ]
+              },
+              {
+                "group": "Exemples d'endpoints",
+                "pages": [
+                  "fr/api-reference/endpoint/get",
+                  "fr/api-reference/endpoint/create",
+                  "fr/api-reference/endpoint/delete",
+                  "fr/api-reference/endpoint/webhook"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "de",
+        "tabs": [
+          {
+            "tab": "Dokumente",
+            "groups": [
+              {
+                "group": "Übersicht",
+                "pages": [
+                  "de/index",
+                  "de/onboarding",
+                  "de/platform-guide",
+                  "de/features"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "API-Referenz",
+            "groups": [
+              {
+                "group": "API-Dokumentation",
+                "pages": [
+                  "de/api-reference/introduction"
+                ]
+              },
+              {
+                "group": "Endpoint-Beispiele",
+                "pages": [
+                  "de/api-reference/endpoint/get",
+                  "de/api-reference/endpoint/create",
+                  "de/api-reference/endpoint/delete",
+                  "de/api-reference/endpoint/webhook"
+                ]
+              }
             ]
           }
         ]
