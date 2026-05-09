@@ -3,22 +3,20 @@
   "theme": "mint",
   "name": "Rovelo Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1E4588",
+    "light": "#4167a9",
+    "dark": "#133060"
   },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documents",
         "groups": [
           {
             "group": "Getting started",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "index"
             ]
           },
           {
@@ -75,21 +73,29 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Changelog",
+          "icon": "bell-ringing",
+          "color": {
+            "light": "#1E4588",
+            "dark": "#1E4588"
+          },
+          "href": "https://rovelo.app/changelog"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Discord Server",
+          "icon": "brand-discord",
+          "color": {
+            "light": "#1E4588",
+            "dark": "#1E4588"
+          },
+          "href": "https://discord.gg/y3kVrcwC7K"
         }
       ]
     }
   },
   "logo": {
     "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "dark": "/logo/light.svg"
   },
   "navbar": {
     "links": [
@@ -122,5 +128,23 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "fonts": {
+    "family": "Inter",
+    "weight": 500,
+    "format": "woff"
+  },
+  "icons": {
+    "library": "tabler"
+  },
+  "description": "Everything you need to start using Rovelo",
+  "styling": {
+    "latex": false
+  },
+  "metadata": {
+    "timestamp": false
+  },
+  "seo": {
+    "indexing": "all"
   }
 }
