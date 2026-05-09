@@ -141,16 +141,7 @@
       "href": "https://dashboard.rovelo.app"
     }
   },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
+  "contextual": null
    ]
   },
   "footer": {
