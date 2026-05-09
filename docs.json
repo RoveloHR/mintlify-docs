@@ -59,7 +59,29 @@
                 "group": "Información general",
                 "pages": [
                   "es/index",
-                  "es/onboarding"
+                  "es/onboarding",
+                  "es/platform-guide",
+                  "es/features"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Referencia de la API",
+            "groups": [
+              {
+                "group": "Documentación de la API",
+                "pages": [
+                  "es/api-reference/introduction"
+                ]
+              },
+              {
+                "group": "Ejemplos de endpoints",
+                "pages": [
+                  "es/api-reference/endpoint/get",
+                  "es/api-reference/endpoint/create",
+                  "es/api-reference/endpoint/delete",
+                  "es/api-reference/endpoint/webhook"
                 ]
               }
             ]
@@ -76,7 +98,29 @@
                 "group": "Vue d'ensemble",
                 "pages": [
                   "fr/index",
-                  "fr/onboarding"
+                  "fr/onboarding",
+                  "fr/platform-guide",
+                  "fr/features"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Référence API",
+            "groups": [
+              {
+                "group": "Documentation de l'API",
+                "pages": [
+                  "fr/api-reference/introduction"
+                ]
+              },
+              {
+                "group": "Exemples de points de terminaison",
+                "pages": [
+                  "fr/api-reference/endpoint/get",
+                  "fr/api-reference/endpoint/create",
+                  "fr/api-reference/endpoint/delete",
+                  "fr/api-reference/endpoint/webhook"
                 ]
               }
             ]
@@ -93,7 +137,29 @@
                 "group": "Übersicht",
                 "pages": [
                   "de/index",
-                  "de/onboarding"
+                  "de/onboarding",
+                  "de/platform-guide",
+                  "de/features"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "API-Referenz",
+            "groups": [
+              {
+                "group": "API-Dokumentation",
+                "pages": [
+                  "de/api-reference/introduction"
+                ]
+              },
+              {
+                "group": "Endpunkt-Beispiele",
+                "pages": [
+                  "de/api-reference/endpoint/get",
+                  "de/api-reference/endpoint/create",
+                  "de/api-reference/endpoint/delete",
+                  "de/api-reference/endpoint/webhook"
                 ]
               }
             ]
