@@ -113,5 +113,6 @@
   },
   "search": {
     "prompt": "Search or ask..."
-  }
+  },
+  "favicon": "logo"
 }
