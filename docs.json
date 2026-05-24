@@ -233,6 +233,6 @@
     "indexing": "all"
   },
   "search": {
-    "prompt": "h"
+    "prompt": "Search or ask..."
   }
 }
