@@ -112,5 +112,14 @@
   },
   "search": {
     "prompt": "Search or ask..."
+  },
+  "logo": {
+    "light": "/images/Vector.svg",
+    "dark": "/images/Vector.svg",
+    "href": "https://rovelo.app"
+  },
+  "favicon": {
+    "light": "/images/Vector(1).svg",
+    "dark": "/images/Vector(1).svg"
   }
 }
